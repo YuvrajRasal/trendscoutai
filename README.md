@@ -127,10 +127,15 @@ trendscoutai/
 │   ├── acs_filtered_contentrich_articles.json
 │   ├── ak_articles_w_keyword.json
 │
-├── techCrunch_scraper.py
-├── article_filter.py
-├── article_content_scraper.py
-├── addKeyword.py
+├── code/
+│   ├── techCrunch_scraper.py
+│   ├── article_filter.py
+│   ├── article_content_scraper.py
+│   ├── addKeyword.py
+│
+├── assets/
+│   └── pipeline.png   # (your diagram)
+│
 ├── requirements.txt
 └── README.md
 ```
